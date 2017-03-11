@@ -1,0 +1,537 @@
+.is_front_page .collapse.navbar-collapse ul.nav.navbar-nav ul.dropdown-menu a,
+.is_front_page .menu-main-menu-container ul.nav.navbar-nav ul.dropdown-menu li.menu-item a,
+.is_front_page.jt_main_content.have_rev_slider .jt-page-header.jt-blog-page .is-sticky header .navbar.navbar-default ul.nav.navbar-nav li ul.dropdown-menu li a,
+.is_front_page .left-menu-wrap .menu-main-menu-container ul.left-menu ul.sub-menu li.menu-item a,
+.is_front_page .left-menu-wrap ul.left-menu.port-filter-menu li ul.port-filter li a,
+.is_front_page .right-menu-wrap .menu-main-menu-container ul.left-menu ul.sub-menu li.menu-item a,
+.is_front_page .right-menu-wrap ul.left-menu.port-filter-menu li ul.port-filter li a,
+.is_front_page .hidden-side-big-screen ul.nav.navbar-nav .menu-main-menu-container ul.menu li.menu-item.dropdown ul.dropdown-menu li a,
+.is_front_page .hidden-side-big-screen ul.nav.navbar-nav li.menu-item ul.port-filter li a,
+.is_front_page .jt-photo-wrap .left-menu-wrap.jt-dark-bg .left-menu-list ul.left-menu ul.sub-menu li a,
+.is_front_page .jt-photo-wrap .photography-rightmenu.jt-dark-bg .left-menu-list ul.left-menu ul.sub-menu li a,
+.is_front_page .jt-photo-wrap .hidden-side-big-screen ul.nav.navbar-nav li.dropdown ul.dropdown-menu li a,
+.is_front_page .jt_shop_content .hidden-big-screen .menu-main-menu-container ul.slimmenu.collapsed li ul.dropdown-menu li a,
+
+.page-template-template-scroll-lock .collapse.navbar-collapse ul.nav.navbar-nav ul.dropdown-menu a,
+.page-template-template-scroll-lock .menu-main-menu-container ul.nav.navbar-nav ul.dropdown-menu li.menu-item a,
+.page-template-template-scroll-lock.jt_main_content.have_rev_slider .jt-page-header.jt-blog-page .is-sticky header .navbar.navbar-default ul.nav.navbar-nav li ul.dropdown-menu li a,
+.page-template-template-scroll-lock .left-menu-wrap .menu-main-menu-container ul.left-menu ul.sub-menu li.menu-item a,
+.page-template-template-scroll-lock .left-menu-wrap ul.left-menu.port-filter-menu li ul.port-filter li a,
+.page-template-template-scroll-lock .right-menu-wrap .menu-main-menu-container ul.left-menu ul.sub-menu li.menu-item a,
+.page-template-template-scroll-lock .right-menu-wrap ul.left-menu.port-filter-menu li ul.port-filter li a,
+.page-template-template-scroll-lock .hidden-side-big-screen ul.nav.navbar-nav .menu-main-menu-container ul.menu li.menu-item.dropdown ul.dropdown-menu li a,
+.page-template-template-scroll-lock .hidden-side-big-screen ul.nav.navbar-nav li.menu-item ul.port-filter li a,
+.page-template-template-scroll-lock .jt-photo-wrap .left-menu-wrap.jt-dark-bg .left-menu-list ul.left-menu ul.sub-menu li a,
+.page-template-template-scroll-lock .jt-photo-wrap .photography-rightmenu.jt-dark-bg .left-menu-list ul.left-menu ul.sub-menu li a,
+.page-template-template-scroll-lock .jt-photo-wrap .hidden-side-big-screen ul.nav.navbar-nav li.dropdown ul.dropdown-menu li a,
+.page-template-template-scroll-lock .jt_shop_content .hidden-big-screen .menu-main-menu-container ul.slimmenu.collapsed li ul.dropdown-menu li a {
+	color: #dfdfdf;
+}
+.is_front_page .collapse.navbar-collapse ul.nav.navbar-nav ul.dropdown-menu a:hover,
+.is_front_page .menu-main-menu-container ul.nav.navbar-nav ul.dropdown-menu li.menu-item a:hover,
+.is_front_page.jt_main_content.have_rev_slider .jt-page-header.jt-blog-page .is-sticky header .navbar.navbar-default ul.nav.navbar-nav li ul.dropdown-menu li a:hover,
+.is_front_page .left-menu-wrap .menu-main-menu-container ul.left-menu ul.sub-menu li a:hover,
+.is_front_page .left-menu-wrap ul.left-menu.port-filter-menu ul.port-filter li a:hover,
+.is_front_page .right-menu-wrap .menu-main-menu-container ul.left-menu ul.sub-menu li a:hover,
+.is_front_page .right-menu-wrap ul.left-menu.port-filter-menu ul.port-filter li a:hover,
+.is_front_page .hidden-side-big-screen ul.nav.navbar-nav .menu-main-menu-container ul.menu li.menu-item.dropdown ul.dropdown-menu li a:hover,
+.is_front_page .hidden-side-big-screen ul.nav.navbar-nav li.menu-item ul.port-filter li a:hover,
+.is_front_page .jt-photo-wrap .left-menu-wrap.jt-dark-bg .left-menu-list ul.left-menu ul.sub-menu li a:hover,
+.is_front_page .jt-photo-wrap .photography-rightmenu.jt-dark-bg .left-menu-list ul.left-menu ul.sub-menu li a:hover,
+.is_front_page .jt-photo-wrap .hidden-side-big-screen ul.nav.navbar-nav li.dropdown ul.dropdown-menu li a:hover,
+.is_front_page .jt-box-layout-bg .jt-boxed-layout .jt_box_header_content .hidden-big-screen .menu-main-menu-container ul.nav.navbar-nav ul.dropdown-menu li a:hover,
+.is_front_page .jt_shop_content .hidden-big-screen .menu-main-menu-container ul.slimmenu.collapsed li ul.dropdown-menu li a:hover,
+
+.page-template-template-scroll-lock .collapse.navbar-collapse ul.nav.navbar-nav ul.dropdown-menu a:hover,
+.page-template-template-scroll-lock .menu-main-menu-container ul.nav.navbar-nav ul.dropdown-menu li.menu-item a:hover,
+.page-template-template-scroll-lock.jt_main_content.have_rev_slider .jt-page-header.jt-blog-page .is-sticky header .navbar.navbar-default ul.nav.navbar-nav li ul.dropdown-menu li a:hover,
+.page-template-template-scroll-lock .left-menu-wrap .menu-main-menu-container ul.left-menu ul.sub-menu li a:hover,
+.page-template-template-scroll-lock .left-menu-wrap ul.left-menu.port-filter-menu ul.port-filter li a:hover,
+.page-template-template-scroll-lock .right-menu-wrap .menu-main-menu-container ul.left-menu ul.sub-menu li a:hover,
+.page-template-template-scroll-lock .right-menu-wrap ul.left-menu.port-filter-menu ul.port-filter li a:hover,
+.page-template-template-scroll-lock .hidden-side-big-screen ul.nav.navbar-nav .menu-main-menu-container ul.menu li.menu-item.dropdown ul.dropdown-menu li a:hover,
+.page-template-template-scroll-lock .hidden-side-big-screen ul.nav.navbar-nav li.menu-item ul.port-filter li a:hover,
+.page-template-template-scroll-lock .jt-photo-wrap .left-menu-wrap.jt-dark-bg .left-menu-list ul.left-menu ul.sub-menu li a:hover,
+.page-template-template-scroll-lock .jt-photo-wrap .photography-rightmenu.jt-dark-bg .left-menu-list ul.left-menu ul.sub-menu li a:hover,
+.page-template-template-scroll-lock .jt-photo-wrap .hidden-side-big-screen ul.nav.navbar-nav li.dropdown ul.dropdown-menu li a:hover,
+.page-template-template-scroll-lock .jt-box-layout-bg .jt-boxed-layout .jt_box_header_content .hidden-big-screen .menu-main-menu-container ul.nav.navbar-nav ul.dropdown-menu li a:hover,
+.page-template-template-scroll-lock .jt_shop_content .hidden-big-screen .menu-main-menu-container ul.slimmenu.collapsed li ul.dropdown-menu li a:hover {
+	color: #ffffff;
+}
+.is_front_page .collapse.navbar-collapse ul.nav.navbar-nav ul.dropdown-menu li.active a,
+.is_front_page .menu-main-menu-container ul.nav.navbar-nav ul.dropdown-menu li.active a,
+.is_front_page.jt_main_content.have_rev_slider .jt-page-header.jt-blog-page .is-sticky header .navbar.navbar-default ul.nav.navbar-nav li ul.dropdown-menu li.active a,
+.is_front_page .left-menu-wrap .menu-main-menu-container ul.left-menu ul.sub-menu li.menu-item.active a,
+.is_front_page .right-menu-wrap .menu-main-menu-container ul.left-menu ul.sub-menu li.menu-item.active a,
+.is_front_page .hidden-side-big-screen ul.nav.navbar-nav .menu-main-menu-container ul.menu li.menu-item.dropdown ul.dropdown-menu li.active a,
+.is_front_page .hidden-side-big-screen ul.nav.navbar-nav li.menu-item ul.port-filter li.active a,
+.is_front_page .jt-photo-wrap .left-menu-wrap.jt-dark-bg .left-menu-list ul.left-menu ul.sub-menu li.active a,
+.is_front_page .jt-photo-wrap .photography-rightmenu.jt-dark-bg .left-menu-list ul.left-menu ul.sub-menu li.active a,
+.is_front_page .jt-photo-wrap .hidden-side-big-screen ul.nav.navbar-nav li.dropdown ul.dropdown-menu li.active a,
+.is_front_page .jt_shop_content .hidden-big-screen .menu-main-menu-container ul.slimmenu.collapsed li ul.dropdown-menu li.active a,
+
+.page-template-template-scroll-lock .collapse.navbar-collapse ul.nav.navbar-nav ul.dropdown-menu li.active a,
+.page-template-template-scroll-lock .menu-main-menu-container ul.nav.navbar-nav ul.dropdown-menu li.active a,
+.page-template-template-scroll-lock.jt_main_content.have_rev_slider .jt-page-header.jt-blog-page .is-sticky header .navbar.navbar-default ul.nav.navbar-nav li ul.dropdown-menu li.active a,
+.page-template-template-scroll-lock .left-menu-wrap .menu-main-menu-container ul.left-menu ul.sub-menu li.menu-item.active a,
+.page-template-template-scroll-lock .right-menu-wrap .menu-main-menu-container ul.left-menu ul.sub-menu li.menu-item.active a,
+.page-template-template-scroll-lock .hidden-side-big-screen ul.nav.navbar-nav .menu-main-menu-container ul.menu li.menu-item.dropdown ul.dropdown-menu li.active a,
+.page-template-template-scroll-lock .hidden-side-big-screen ul.nav.navbar-nav li.menu-item ul.port-filter li.active a,
+.page-template-template-scroll-lock .jt-photo-wrap .left-menu-wrap.jt-dark-bg .left-menu-list ul.left-menu ul.sub-menu li.active a,
+.page-template-template-scroll-lock .jt-photo-wrap .photography-rightmenu.jt-dark-bg .left-menu-list ul.left-menu ul.sub-menu li.active a,
+.page-template-template-scroll-lock .jt-photo-wrap .hidden-side-big-screen ul.nav.navbar-nav li.dropdown ul.dropdown-menu li.active a,
+.page-template-template-scroll-lock .jt_shop_content .hidden-big-screen .menu-main-menu-container ul.slimmenu.collapsed li ul.dropdown-menu li.active a {
+	color: #ffffff;
+}
+.is_front_page .collapse.navbar-collapse ul.nav.navbar-nav li.dropdown ul.dropdown-menu,
+.is_front_page .menu-main-menu-container ul.nav.navbar-nav.navbar-left.jt-main-nav li.dropdown ul.dropdown-menu,
+.is_front_page .jt_agency_content .jt-agency-header ul.nav.navbar-nav li.dropdown ul.dropdown-menu,
+
+.page-template-template-scroll-lock .collapse.navbar-collapse ul.nav.navbar-nav li.dropdown ul.dropdown-menu,
+.page-template-template-scroll-lock .menu-main-menu-container ul.nav.navbar-nav.navbar-left.jt-main-nav li.dropdown ul.dropdown-menu,
+.page-template-template-scroll-lock .jt_agency_content .jt-agency-header ul.nav.navbar-nav li.dropdown ul.dropdown-menu {
+	background: #35373e;
+}
+.is_front_page .hidden-big-screen .menu-main-menu-container ul.nav.navbar-nav li.menu-item a,
+.is_front_page .hidden-side-big-screen ul.nav.navbar-nav li.menu-item span.jt-cross-over,
+.is_front_page .hidden-side-big-screen ul.nav.navbar-nav li.menu-item ul.port-filter li a,
+.is_front_page .hidden-side-big-screen ul.nav.navbar-nav li a,
+.is_front_page .hidden-side-big-screen ul.nav.navbar-nav li a:hover,
+.is_front_page .hidden-side-big-screen ul.nav.navbar-nav li.dropdown ul.dropdown-menu li a,
+.is_front_page .hidden-side-big-screen ul.nav.navbar-nav li.dropdown ul.dropdown-menu li a:hover,
+.is_front_page .jt-photo-wrap .hidden-side-big-screen ul.nav.navbar-nav li a,
+.is_front_page .jt-photo-wrap .hidden-side-big-screen ul.nav.navbar-nav li a:hover,
+.is_front_page .jt-photo-wrap .hidden-side-big-screen ul.nav.navbar-nav ul.dropdown-menu ul.dropdown-menu li a,
+.is_front_page .jt-photo-wrap .hidden-side-big-screen ul.nav.navbar-nav ul.dropdown-menu ul.dropdown-menu li a:hover,
+.is_front_page .jt_shop_content .hidden-big-screen .menu-main-menu-container ul.slimmenu.collapsed li ul.dropdown-menu li a,
+
+.page-template-template-scroll-lock .hidden-big-screen .menu-main-menu-container ul.nav.navbar-nav li.menu-item a,
+.page-template-template-scroll-lock .hidden-side-big-screen ul.nav.navbar-nav li.menu-item span.jt-cross-over,
+.page-template-template-scroll-lock .hidden-side-big-screen ul.nav.navbar-nav li.menu-item ul.port-filter li a,
+.page-template-template-scroll-lock .hidden-side-big-screen ul.nav.navbar-nav li a,
+.page-template-template-scroll-lock .hidden-side-big-screen ul.nav.navbar-nav li a:hover,
+.page-template-template-scroll-lock .hidden-side-big-screen ul.nav.navbar-nav li.dropdown ul.dropdown-menu li a,
+.page-template-template-scroll-lock .hidden-side-big-screen ul.nav.navbar-nav li.dropdown ul.dropdown-menu li a:hover,
+.page-template-template-scroll-lock .jt-photo-wrap .hidden-side-big-screen ul.nav.navbar-nav li a,
+.page-template-template-scroll-lock .jt-photo-wrap .hidden-side-big-screen ul.nav.navbar-nav li a:hover,
+.page-template-template-scroll-lock .jt-photo-wrap .hidden-side-big-screen ul.nav.navbar-nav ul.dropdown-menu ul.dropdown-menu li a,
+.page-template-template-scroll-lock .jt-photo-wrap .hidden-side-big-screen ul.nav.navbar-nav ul.dropdown-menu ul.dropdown-menu li a:hover,
+.page-template-template-scroll-lock .jt_shop_content .hidden-big-screen .menu-main-menu-container ul.slimmenu.collapsed li ul.dropdown-menu li a {
+	background: #35373e;
+}
+	.is_front_page .jt-page-header header {
+		background: transparent;
+	}
+
+			.is_front_page .jt-page-header .is-sticky header,
+		.is_front_page.jt_main_content.have_rev_slider .jt-page-header.jt-blog-page .is-sticky header,
+		.is_front_page.jt_freelance_content.have_rev_slider .jt-freelance-head .is-sticky header,
+		.is_front_page.have_rev_slider .jt-page-header .is-sticky header,
+		.is_front_page .jt-blog-header .is-sticky header,
+		.is_front_page .jt-arch-head-content .is-sticky header,
+		.is_front_page .jt-agency-header .is-sticky .jt-agency-head-bar.jt-on-slide,
+		.is_front_page .jt-agency-header .is-sticky .jt-agency-head-bar,
+		.is_front_page .jt-studio-banner-wrap .is-sticky header,
+		.jt_studio_content.is_front_page .is-sticky header.jt-studio.jt-studio-header,
+		.is_front_page .jt-boxed-layout .jt_box_header_content .is-sticky header.jt-box-top-header.sticky-nav,
+		.is_front_page.have_rev_slider .jt-boxed-layout .jt_box_header_content .is-sticky header.jt-box-top-header.sticky-nav,
+		.is_front_page .jt-shop-top-head-wrap .is-sticky .jt-shop-menu-wrap,
+		.is_front_page.have_rev_slider .jt-shop-top-head-wrap .is-sticky .jt-shop-menu-wrap {
+			background: #35373e;
+					}
+	footer.jt-footer-style-two,
+footer > div,
+footer.jt-footer-style-two > div {
+			background-color: #222222;
+	}
+footer.jt-footer-style-two .jt-copyright-area,
+footer .jt-copyright-area {
+	background-color: #222222;
+}
+footer.jt-footer-style-two .jt-copyright-area,
+footer .jt-copyright-area p {
+	color: #aaaaaa;
+}
+footer > div {
+	<!-- padding-top: 0px !important; -->
+}
+footer.jt-footer-style-two .jt-copyright-area {
+	margin-top: 0;
+}
+		.page-id-222 .page-container.content-ctrl {
+   			padding: 0px;
+   		}
+			.page-id-987 .page-container.content-ctrl {
+   			padding: 0px;
+   		}
+			.page-id-247 .page-container.content-ctrl {
+   			padding: 0px;
+   		}
+			.page-id-1059 .page-container.content-ctrl {
+   			padding: 0px;
+   		}
+			.page-id-1140 .page-container.content-ctrl {
+   			padding: 0px;
+   		}
+			.page-id-1062 .page-container.content-ctrl {
+   			padding: 140px 0px 0px 0px;
+   		}
+			.page-id-6 .page-container.content-ctrl {
+   			padding: 0px;
+   		}
+			.page-id-1142 .page-container.content-ctrl {
+   			padding: 54px 0px 0px 0px;
+   		}
+			.page-id-989 .page-container.content-ctrl {
+   			padding: 0px;
+   		}
+			.page-id-1138 .page-container.content-ctrl {
+   			padding: 0px;
+   		}
+	.entry-content p,
+.entry-content.page-container p,
+.jt-heading .sub-heading,
+.entry-content .jt-heading h4.sub-heading,
+.entry-content.page-container .jt-heading h4.sub-heading,
+.jt-team-over .team-profession,
+.jt-test-name span,
+.jt-counter-three.jt-counter .jt-num,
+.jt-comments-meta > .comments-meta,
+.comments-area .comment-respond textarea,
+form.comment-form .error,
+.comments-area .comment-respond input[type="text"],
+.jt-time-content,
+.jt-page-banner .jt-breadcrumbs,
+.jt-page-banner .jt-breadcrumbs a,
+.jt-price-features li,
+.jt-pricing-circle .jt-period,
+.entry-content .jt-lists h1.list-head, .entry-content.page-container .jt-lists h1.list-head,
+.entry-content .jt-lists h2.list-head, .entry-content.page-container .jt-lists h2.list-head,
+.entry-content .jt-lists h3.list-head, .entry-content.page-container .jt-lists h3.list-head,
+.entry-content .jt-lists h4.list-head, .entry-content.page-container .jt-lists h4.list-head,
+.entry-content .jt-lists h5.list-head, .entry-content.page-container .jt-lists h5.list-head,
+.entry-content .jt-lists h6.list-head, .entry-content.page-container .jt-lists h6.list-head,
+.double-line-one,
+table.table,
+.jt_row_class .vc_tta-accordion .vc_tta-panel.vc_active .vc_tta-panel-body p,
+.jt_row_class .vc_tta-accordion .vc_tta-panel.vc_active .vc_tta-panel-body ul > li,
+.jt_row_class .vc_tta.vc_tta-tabs .vc_tta-panel.vc_active .vc_tta-panel-body p,
+.jt_row_class .vc_tta-tabs.vc_tta-style-modern .vc_tta-panel.vc_active .vc_tta-panel-body,
+.jt_row_class .vc_tta-tabs.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-body,
+.jt_row_class .vc_tta-tabs.vc_tta-style-flat .vc_tta-panel.vc_active .vc_tta-panel-body,
+.jt_row_class .vc_tta-tabs.vc_tta-style-outline .vc_tta-panel.vc_active .vc_tta-panel-body,
+.alert,
+.alert-bg,
+.jt-block-quote blockquote,
+div.jt-special,
+.jt-heading .jt-short-title,
+.jt-related-works em,
+.jt-tabs-main-content,
+div.wpcf7-response-output,
+.jt-cnt-carousel-wrapper,
+.jt-header-content > p,
+.flnce-slide-cont .testi-name .testi-desg,
+.slider-no-prev, .slider-no-next,
+span.wpcf7-not-valid-tip,
+.business-testimonials-cont .flnce-slide-cont .slide-cont,
+.jt_business_content .jt-business-banner-content .jt-breadcrumbs,
+.jt-arch-service ul li,
+.jt-agency-hover-content .jt-agency-top,
+.jt-agency-hover-content a,
+.jt-studio-sub h3,
+.jt-italic-heading .jt-heading .sub-heading,
+.jt-vintage-banner-content p,
+.woocommerce .widget_shopping_cart ul,
+.single-product.woocommerce #reviews #review_form .comment-form-rating label,
+.single-product.woocommerce .shop-template .entry-summary p.stock.in-stock,
+.jt-single-quote > .jt-quote-msg,
+.wpb_text_column p,
+.format-link .jt-post-content .jt-post-title,
+.format-quote .jt-post-content .jt-post-title,
+.jt-footer-title,
+.jt-boxed-footer-contact p,
+.jt-shop-offer-cont.jt-promo-two .jt-shop-branch a,
+.woocommerce-cart .cart-collaterals .cart_totals table,
+.woocommerce-cart .cart-collaterals .cart_totals table tbody tr th,
+.woocommerce-cart .cart-collaterals .cart_totals table tbody tr td,
+.woocommerce-checkout form.woocommerce-checkout #customer_details .your-order .woocommerce-checkout-review-order .woocommerce-checkout-payment ul.payment_methods li .payment_box.payment_method_bacs p,
+.woocommerce-checkout .your-order table.woocommerce-checkout-review-order-table tbody td,
+.woocommerce-checkout .your-order table.woocommerce-checkout-review-order-table tfoot,
+.woocommerce-checkout .your-order table.woocommerce-checkout-review-order-table tfoot th,
+.woocommerce-checkout .your-order table.woocommerce-checkout-review-order-table tfoot td,
+.woocommerce-checkout .woocommerce-info,
+.woocommerce .widget_products ul.product_list_widget li a,
+.woocommerce .widget_products ul.product_list_widget,
+.top-cart-content .widget_shopping_cart.woocommerce ul.cart_list li .quantity,
+.top-cart-content .widget_shopping_cart.woocommerce ul.cart_list li .quantity .amount,
+.woocommerce .orderby,
+.woocommerce-checkout form.woocommerce-checkout .woocommerce-billing-fields input,
+.woocommerce-checkout form.woocommerce-checkout .woocommerce-billing-fields .select2-choice,
+.woocommerce form .form-row input.input-text,
+.woocommerce form .form-row textarea, .woocommerce-page form .form-row input.input-text, .woocommerce-page form .form-row textarea,
+.woocommerce-checkout form.woocommerce-checkout .woocommerce-billing-fields input,
+.woocommerce-checkout form.woocommerce-checkout .woocommerce-billing-fields .select2-choice,
+.jt-blog-header header.logo-center #top-search form input,
+.jt-blog-header header.logo-center #top-search-slim form input,
+.woocommerce-cart .shipping-coupon .shipping_calculator .juster-shipping-calculator-form .jt-layout-column span select#calc_shipping_state,
+.woocommerce-cart .shipping-coupon .shipping_calculator .juster-shipping-calculator-form p select {
+			font-family: PT Sans, sans-serif;
+	}
+::-webkit-input-placeholder {
+			font-family: PT Sans, sans-serif;
+	}
+:-moz-placeholder {
+			font-family: PT Sans, sans-serif;
+	}
+::-moz-placeholder {
+			font-family: PT Sans, sans-serif;
+	}
+:-ms-input-placeholder {
+			font-family: PT Sans, sans-serif;
+	}
+a,
+body .entry-content a,
+.jt-portfolio-item .jt-port-cat a,
+.jt-post-list-metas,
+.jt-share-link span,
+.page-numbers a.prev,
+.page-numbers a.next,
+.page-numbers span,
+.jt-comments-meta > .comments-reply a,
+.blog-content .blog-read-txt,
+.jt-business-port .jt-business-port-cont .jt-port-category a,
+.jt_row_class .wp-pagenavi a,
+.jt_row_class .wp-pagenavi span,
+.jt-corp-port-cont .jt-corp-cat,
+.jt-boxed-port .jt-corp-port-overlay .jt-corp-port-cont .jt-box-cat,
+.single-product.woocommerce .product_meta span.posted_in a,
+.single-product.woocommerce .product_meta span.tagged_as a {
+			font-family: PT Sans, sans-serif;
+	}
+.sidebar p,
+.sidebar .widget.widget_search input,
+.sidebar .widget ul li a,
+.sidebar .widget_tag_cloud a,
+.sidebar .widget select,
+.sidebar .widget_calendar table,
+.sidebar .widget ul li,
+.sidebar .jt-widget-text {
+			font-family: PT Sans, sans-serif;
+	}
+footer p,
+footer a,
+footer ul li a,
+.foot-ctrl footer ul li a,
+footer ul li,
+.jt-social-counter ul li a p,
+footer .widget.widget_text .jt-social-counter ul li a p,
+footer .widget select,
+footer .widget_calendar table,
+footer .widget.widget_text p,
+footer .widget_tag_cloud a,
+footer .jt-widget-text,
+.widget_tweet_fader_widget p,
+.jt-footer-author-details p {
+			font-family: PT Sans, sans-serif;
+	}
+header .navbar.navbar-default ul.nav.navbar-nav a,
+.navbar.navbar-default ul.nav.navbar-nav a,
+.left-menu-list ul.left-menu li a,
+.left-menu-list ul.nav.navbar-nav li a,
+ul.slimmenu.collapsed li a,
+.left-menu-list .left-menu > li,
+.left-menu-list .left-menu .port-filter li a,
+.left-menu-list .left-menu .sub-menu li a,
+.jt-agency-menu h3 {
+			font-family: Montserrat, sans-serif;
+	}
+h1, .entry-content h1,
+.entry-content.page-container h1,
+h2, .entry-content h2,
+.entry-content.page-container h2,
+h3, .entry-content h3,
+.entry-content.page-container h3,
+h4, .entry-content h4,
+.entry-content.page-container h4,
+h5, .entry-content h5,
+.entry-content.page-container h5,
+h6, .entry-content h6,
+.entry-content.page-container h6,
+.entry-content .flnce-awards p.award-det,
+.entry-content.page-container .flnce-awards p.award-det,
+.jt-tab-image-wrapper .pws_tabs_container ul.pws_tabs_controll li a,
+.jt-coun-content,
+.jt-counter .jt-num,
+.jt-portfolio-item .jt-port-heading a,
+.entry-content .jt-watch-video p,
+.jt-test-name,
+.jt-post-contents a.jt-post-title,
+.jt-list-read-more span,
+.blog-style-one .read-more-blog,
+body .entry-content a.jt-btn-call-action,
+.jt-page-banner h2,
+body .entry-content a.btn-primary,
+body .entry-content a.jt-pricing-btn,
+.skillbar-title,
+.jt-year-start, .jt-year-end,
+.jt-box-header,
+.jt-process-content .jt-cnt-heading,
+.dropcaps,
+.table th,
+.jt_row_class .vc_tta.vc_tta-accordion .vc_tta-panel-heading h4.vc_tta-panel-title a,
+.jt_row_class .vc_tta-tabs.vc_tta.vc_tta-style-modern .vc_tta-tab > a,
+.wv-percent,
+.pricing-state,
+.jt-pricing-circle .jt-prices,
+.vc_tta.vc_general .vc_tta-tab > a,
+.jt_row_class .vc_tta.vc_tta-tabs.vc_tta-style-flat .vc_tta-tab > a,
+.jt_row_class .vc_tta.vc_tta-tabs.vc_tta-style-flat .vc_tta-tab.vc_active > a,
+.jt_row_class .vc_tta.vc_tta-style-outline .vc_tta-tab > a,
+.jt-single-meta-two .jt-single-service-list > li > span,
+.jt-fig-cont span em,
+.jt-single-port-pagination .jt-single-nav > a,
+ul.jt-share-one li:first-child,
+.single-portfolio-banner-content h1,
+.jt-post-read-more,
+body .entry-content a.jt-post-read-more,
+body .entry-content .jt-list-cat a,
+body .entry-content .jt-post-cat a,
+.jt-tabs-num .swiper-pagination-bullet,
+.jt-filter li.back-text,
+.wpcf7 input[type="submit"],
+.jt-nxt-pre-posts a,
+.services-style-three .ser-learn-more,
+.jt-cnt-carousel-wrapper .jt-carousel-heading,
+a.btn-primary,
+.jt-header-content > h4,
+.services-style-one .services-content > .jt-serv-learnmore,
+.form-submit input[type="submit"],
+.flnce-slide-cont .testi-name,
+.jt_freelance_content .jt-page-banner h2,
+.jt-business-port .jt-business-port-cont a.jt-port-title,
+.jt_business_content .jt-bussiness-head-cont .jt-business-banner-content h1,
+.error-msg,
+.services-style-seven .jt-serv-content .jt-serv-sub .jt-serv-learn-more,
+.jt-top-contact > li > .jt-cont-tit, .jt-top-contact > li > .jt-cont-detail,
+.jt-photo-filter .jt-photo-list-wrap .jt-filter,
+.jt-photo-filter .jt-photo-list-wrap .jt-photo-filter-list > li > a,
+.jt-share-popup-cnt > p,
+.jt-header-three .navbar-default.menu-metas ul.jt-arch-share-list li > a,
+.dragslider button.test-switch,
+.jt-agency-header .jt-main-title,
+.jt-slide-filter-list li a,
+.jt-agency-banner-content h1,
+.jt-agency-banner-content p,
+.footer-lang li a,
+.jt_studio_content.is_front_page .jt-head-studio .jt-small-content h1,
+.jt_studio_content .jt-head-studio.not-front-studio .jt-studio-banner-small .jt-small-content h1,
+.jt-top-contact > li > .jt-txt-link,
+.jt-corp-port-cont .jt-corp-product,
+.jt-footer-style-nine .jt-address-detail p,
+.jt-footer-style-nine .jt-contact p,
+.jt-footer-style-nine .jt-contact a,
+.jt-vintage-banner-content h1,
+.services-style-two.services-style-eight .services-content a,
+.jt-boxed-port .jt-corp-port-overlay .jt-corp-port-cont .jt-box-product,
+.jt-free-ship span, .jt-shop-top-header .navbar-default .navbar-nav > li > a,
+.jt_shop_content .jt-shop-cart li.jt-menu-cart span,
+.jt-shop-cart .navbar-default.menu-metas ul.navbar-nav li > a,
+.jt-shop-offer-cont.jt-promo-one .jt-offer-tit,
+.jt-shop-offer-cont.jt-promo-one .jt-offer,
+.jt-shop-offer-cont.jt-promo-two .jt-shop-cat a,
+.jt-shop-offer-cont.jt-promo-three .jt-offer-tit,
+.jt-shop-offer-cont.jt-promo-three .jt-shop-cat,
+.jt-shop-offer-cont .jt-offer-perc,
+.jt-cat-tab .jt-trend-filter li a,
+.woocommerce a.add_to_cart_button.button, .woocommerce a.product_type_simple.button,
+.woocommerce .jt-product-style-one .product-normal-style h3,
+.woocommerce .jt-product-style-one .product-normal-style .jt-product-cnt span.price,
+.woocommerce .jt-product-style-two .product-normal-style h3,
+.woocommerce .jt-product-style-two .product-normal-style .jt-product-cnt span.price,
+.woocommerce .shop-template .jt-woo-product .jt-product-cnt, .woocommerce-cart .woocommerce .jt-woo-product .jt-product-cnt, .woocommerce .shop-template .jt-woo-product .jt-product-cnt h3, .woocommerce-cart .woocommerce .jt-woo-product .jt-product-cnt h3,
+.single-product.woocommerce h1.product_title,
+.single-product.woocommerce .price .amount,
+.single-product.woocommerce form.cart button.single_add_to_cart_button,
+.prd-qty-text,
+.single-product.woocommerce .product_meta span.posted_in h6,
+.single-product.woocommerce .product_meta span.tagged_as h6,
+.single-product.woocommerce .woocommerce-tabs #tab-description h2,
+.single-product.woocommerce #reviews #comments h2,
+.single-product.woocommerce #reviews #review_form h3#reply-title,
+.woocommerce #review_form #respond .form-submit input[type="submit"],
+.woocommerce div.product .woocommerce-tabs ul.tabs li a,
+.woocommerce #content div.product .woocommerce-tabs ul.tabs li a,
+.woocommerce-page div.product .woocommerce-tabs ul.tabs li a,
+.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li a,
+body .entry-content a.jt-sub-tit,
+.contact-wrap,
+body .entry-content a.read-more-blog,
+.slideshow span em, .slides span a,
+body .entry-content a.jt-custom-btn,
+a.jt-custom-btn,
+body .entry-content .jt-studio-social a,
+.jt-studio-social a,
+body .entry-content .jt-corp-news-letter a,
+.jt-corp-news-letter a,
+body .entry-content .jt-call-out-section p,
+.jt-call-out-section p,
+body .entry-content h3.jt-post-title a,
+.jt-intro-inner a,
+body .entry-content .jt-intro-inner a,
+.jt-trend-item-desc a,
+body .entry-content .jt-trend-item-desc a,
+.widget-juster-recent-posts .recent-title,
+body .entry-content .jt-studio-serv-cont a,
+.blog-content a.blog-read-txt,
+.woocommerce .product-style-1 a.added_to_cart,
+.woocommerce-page .product-style-1 a.added_to_cart,
+.jt-vint-blog .jt-vint-read,
+.jt-box-blog .jt-box-post-meta,
+.jt-filter-wrapper.jt-filter-wrapper-three .jt-filter li a,
+.jt-box-blog .jt-box-post-meta a,
+.woocommerce .shop-template ul.products li.product span.product-tag,
+.jt-product-image span.product-tag,
+.jt-trend-item-img span.product-tag,
+.my-msg-cart {
+			font-family: Montserrat, sans-serif;
+	}
+.sidebar h1,
+.sidebar h2,
+.sidebar h3,
+.sidebar h4,
+.sidebar h5,
+.sidebar h6,
+.entry-content .sidebar h1, .entry-content.page-container .sidebar h1,
+.entry-content .sidebar h2, .entry-content.page-container .sidebar h2,
+.entry-content .sidebar h3, .entry-content.page-container .sidebar h3,
+.entry-content .sidebar h4, .entry-content.page-container .sidebar h4,
+.entry-content .sidebar h5, .entry-content.page-container .sidebar h5,
+.entry-content .sidebar h6, .entry-content.page-container .sidebar h6,
+.entry-content .widget h3.widget-title,
+.woocommerce .widget_price_filter .price_slider_amount .button, .woocommerce-page .widget_price_filter .price_slider_amount .button,
+.woocommerce .widget_price_filter .price_slider_amount .price_label, .woocommerce-page .widget_price_filter .price_slider_amount .price_label {
+			font-family: Montserrat, sans-serif;
+	}
+.foot-ctrl footer h1,
+.foot-ctrl footer h2,
+.foot-ctrl footer h3,
+.foot-ctrl footer h4,
+.foot-ctrl footer h5,
+.foot-ctrl footer h6,
+.foot-ctrl footer .widget h1,
+.foot-ctrl footer .widget h2,
+.foot-ctrl footer .widget h3,
+.foot-ctrl footer .widget h4,
+.foot-ctrl footer .widget h5,
+.foot-ctrl footer .widget h6,
+footer.jt-footer-style-two .jt-copyright-area,
+footer.jt-footer-style-seven .jt-footer-contact, footer.jt-footer-style-seven .jt-footer-contact p, footer.jt-footer-style-seven .jt-footer-contact span,
+.jt-agency-copyright p,
+.jt-footer-author-details a,
+.jt-footer-style-nine .jt-copyright-area p,
+footer .jt-copyright-area p,
+footer ul.jt-social-one li a,
+footer ul.footer-lang li a,
+footer .jt-social-counter ul li a {
+			font-family: Montserrat, sans-serif;
+	}
